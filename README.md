@@ -1,38 +1,77 @@
+<h1 align="center">Hola 👋, soy Saul Alberto Mata Herrera</h1>
+<!--h2 align="center">Data Analyst</h2-->
 
-# Hello there 👋, I'm Saul Alberto Mata Herrera  
-
-### - 🚀 I’m a Data Analyst in transition from Industrial Engineering and Logistics  
-### - 📊 I studied Industrial Engineering and have more than 10 years of experience in manufacturing and logistics  
-### - 📖 I’m currently enrolled in a Data Analytics program at EBAC  
-### - 🤝 I’m looking to collaborate on business analytics projects and operations optimization  
-### - 💬 Ask me about Python, SQL, Looker Studio, data cleaning, predictive modeling, and process optimization  
-### - 📫 How to reach me: **matasaul.97@gmail.com**  
-
----
-
-### 🛠️ Languages & Tools  
-### 📊 Data Analysis Tools  
-
-[![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://support.microsoft.com/excel)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/sql)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)  
-
-### 📈 Data Visualization  
-
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)](https://matplotlib.org/stable/index.html)
-[![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=flat&logo=python&logoColor=white)](https://seaborn.pydata.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)](https://plotly.com/python/)
-[![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)](https://lookerstudio.google.com/)
-[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://learn.microsoft.com/power-bi/)
+<h3>
  
+🚀 Data Analyst in transition from Industrial Engineering and Logistics  
+
+📊 More than 10 years of experience in manufacturing and logistics  
+
+🖥️ Currently enrolled in a Data Analytics program at EBAC  
+
+🤝 Looking to collaborate on business analytics and operations optimization projects  
+
+💬 Ask me about Python, SQL Server, Power BI, Looker Studio, data cleaning, predictive modeling, and process optimization  
+
+📬 How to reach me: **matasaul.97@gmail.com**
+</h3>
 
 ---
 
-### 📂 Featured Projects  
-- [Supply Chain Analytics](https://github.com/matasaul/supply-chain-analytics)  
-- [Business Dashboards](https://github.com/matasaul/business-dashboards)  
-- [EBAC Data Analytics Projects](https://github.com/matasaul/EBACMX)  
+<h2 align="left">Languages</h2>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/sql/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="sqlserver" width="40" height="40"/>
+  </a>
+  <a href="https://support.microsoft.com/excel" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/>
+  </a>
+</p>
 
+---
+
+<h2 align="left">Data Analysis Tools</h2>
+<p align="left">
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+<h2 align="left">Data Visualization Libraries</h2>
+<p align="left">
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://plotly.com/python/" target="_blank" rel="noreferrer">
+    <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="plotly" width="40" height="40"/>
+  </a>
+  <a href="https://altair-viz.github.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/20487725?s=200&v=4" alt="altair" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+<h2 align="left">Business Intelligence</h2>
+<p align="left">
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+  </a>
+  <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_lookerstudio.svg" alt="lookerstudio" width="40" height="40"/>
+  </a>
+</p>
