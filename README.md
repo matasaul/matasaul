@@ -63,9 +63,6 @@
   <a href="https://plotly.com/python/" target="_blank" rel="noreferrer">
     <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="plotly" width="40" height="40"/>
   </a>
-  <a href="https://altair-viz.github.io/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/20487725?s=200&v=4" alt="altair" width="40" height="40"/>
-  </a>
 </p>
 
 ---
