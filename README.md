@@ -10,8 +10,13 @@
 🖥️ Currently enrolled in a Data Analytics program at EBAC  
 
 🤝 Looking to collaborate on business analytics and operations optimization projects  
-
-💬 Ask me about Python, SQL Server, Power BI, Looker Studio, data cleaning, predictive modeling, and process optimization  
+ 
+### 🛠 Skills & Expertise
+- **Python**: Data cleaning, predictive modeling, automation
+- **SQL Server**: Queries, optimization, database management
+- **Power BI & Looker Studio**: Interactive dashboards, business insights
+- **Data Visualization**: Matplotlib, Seaborn, Plotly
+- **Process Optimization**: Workflow analysis, efficiency improvements
 
 📬 How to reach me: **matasaul.97@gmail.com**
 </h3>
