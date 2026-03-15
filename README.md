@@ -16,7 +16,6 @@
 - **SQL Server**: Queries, optimization, database management
 - **Power BI & Looker Studio**: Interactive dashboards, business insights
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
-- **Process Optimization**: Workflow analysis, efficiency improvements
 
 📬 How to reach me: **matasaul.97@gmail.com**
 </h3>
