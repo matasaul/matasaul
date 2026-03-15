@@ -14,7 +14,7 @@
 ### 🛠 Skills & Expertise
 - **Python**: Data cleaning, predictive modeling, automation
 - **SQL Server**: Queries, optimization, database management
-- **Looker Studio & Power BI**: Interactive dashboards, business insights
+- **Looker Studio**: Interactive dashboards, business insights
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 
 📬 How to reach me: **matasaul.97@gmail.com**
