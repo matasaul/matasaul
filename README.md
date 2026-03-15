@@ -79,5 +79,5 @@
 
 ---
 ![matasaul's Stats](https://github-readme-stats.vercel.app/api?username=matasaul&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![matasaul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=matasaul&theme=tokyonight&hide_border=true)
 ![matasaul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matasaul&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
